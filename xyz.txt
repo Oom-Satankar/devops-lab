@@ -53,7 +53,7 @@
         // Adds interactivity to the button
         const button = document.getElementById('actionButton');
         button.addEventListener('click', () => {
-            alert('Hello! Thanks for clicking the button.');
+            alert('Hello!');
         });
     </script>
 
